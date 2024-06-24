@@ -1,0 +1,4 @@
+terraform.exe
+.terraform
+LICENSE.txt
+.terraform.lock.hcl
